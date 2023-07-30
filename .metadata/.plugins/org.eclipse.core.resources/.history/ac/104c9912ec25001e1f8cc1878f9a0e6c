@@ -1,0 +1,5 @@
+package com.fiap.profmat.entities;
+
+public class Materia {
+
+}

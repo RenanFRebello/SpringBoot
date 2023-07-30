@@ -1,0 +1,6 @@
+INSERT INTO Tb_materias(nome) VALUES ("Java1");
+INSERT INTO Tb_materias(nome) VALUES ("Python1");
+INSERT INTO Tb_materias(nome) VALUES ("Math1");
+INSERT INTO Tb_materias(nome) VALUES ("Comp1");
+
+INSERT INTO 
